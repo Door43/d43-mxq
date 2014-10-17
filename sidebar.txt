@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mxq:home|Door43 (mxq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mxq|d43-mxq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mxq/archive/master.zip|d43-mxq.zip]]
+
+**Recent Changes**
+{{changes>ns = mxq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mxq|Ethnologue data]]
+
